@@ -60,7 +60,7 @@ for ($i = 0; $i < count($events); $i++) {
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
             <h1 class="text-center">You Are An Old Bastard.com</h1>
-            <form method="post" action="submit.php">
+            <form method="post" action="http://176.58.110.119:8000/api/result/">
 
                 <p>Take a trip back in time</p>
                 <p>We find events that are equally away in time from each other just to make you feel old as fuck!</p>
